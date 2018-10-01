@@ -6,6 +6,7 @@ It's based on the [Google spreadsheet](https://docs.google.com/spreadsheets/d/1D
 
 The spreadsheet keeps track of
 
- - daily push-up target in the month
+ - daily push-up target in the month (push-ups per month divided by days)
  - remaining push-ups for the month, to reach the goal
+ - adjusted daily target (based on the already completed push-ups)
  - loss in weight (which might happen)
